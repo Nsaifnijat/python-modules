@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  8 10:06:55 2021
 
-@author: Hamdard PC
-"""
 
 #different ways to extract time form date time
 
